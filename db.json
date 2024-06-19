@@ -1,0 +1,45 @@
+{
+    "products": [
+        {
+            "id": 23,
+            "image": "https://teenavi.com/wp-content/uploads/2022/08/oversized-t-shirt-with-jeans-11.jpg",
+            "name": "womens oversized T-Shirt",
+            "price": 29.50,
+            "brand": "Ralph Lauren",
+            "status": "out of stock",
+            "rate": "normal rates"
+            
+        },
+        {
+            "id": 24,
+            "image": "https://www.tomjames.com/pics/catalog/2024SP/pics/Tom-James-Spring-2024-Women-1.jpg",
+            "name": "mens Classic Fit Shirt",
+            "price": 29.50,
+            "brand": "puma",
+            "status": "out of stock",
+            "rate": "normal rates"
+        },
+        {
+            "id": 24,
+            "image": "https://www.tomjames.com/pics/catalog/2024SP/pics/Tom-James-Spring-2024-Women-1.jpg",
+            "name": "womens Classic Fit Shirt",
+            "price": 29.50,
+            "brand": "puma",
+            "status": "out of stock",
+            "rate": "normal rates"
+        },
+        {
+            "id": 24,
+            "image": "https://www.sydnestyle.com/wp-content/uploads/2017/01/Sydne-Style-shows-how-to-wear-a-tee-and-jeans-to-work-on-casual-friday.jpg",
+            "name": "womens Classic Fit Shirt",
+            "price": 29.50,
+            "brand": "puma",
+            "status": "out of stock",
+            "rate": "normal rates"
+        }
+    ],
+
+    
+    "carts": []
+}
+
